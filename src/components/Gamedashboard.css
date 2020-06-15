@@ -1,0 +1,43 @@
+/* GAME - DASHBOARD */
+.dashboard {
+  float: left;
+  text-align: justify;
+  margin-top: 520px;
+  margin-left: -80px;
+  font-weight: bold;
+}
+
+.dashboard h4 {
+  color: darkslategrey;
+}
+
+.dashboard h5 {
+  color: rgb(15, 87, 15);
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.controls {
+  float: right;
+  margin-top: 53px;
+  margin-right: 80px;
+}
+
+#button-tooltip {
+  width: -1000px;
+  text-align: left;
+  display: inline-block;
+}
+
+#button-tooltip h4,
+h5,
+h6 {
+  color: rgb(133, 212, 29);
+}
+
+#button-tooltip h4,
+h5,
+h6,
+ul {
+  text-align: left;
+}

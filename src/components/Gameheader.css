@@ -1,0 +1,20 @@
+/* GAME - HEADER */
+
+.header {
+  margin-left: -1000px;
+}
+
+.header h1 {
+  font-weight: bold;
+  font-size: 75px;
+  margin-top: 15px;
+}
+
+.logo {
+  float: left;
+  height: 100px;
+}
+
+.logoArea {
+  margin-top: -7px;
+}

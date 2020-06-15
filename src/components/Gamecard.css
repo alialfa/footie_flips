@@ -1,0 +1,12 @@
+/* GAME - CARD */
+.gamecard {
+  width: 215px;
+  height: 215px;
+  border-radius: 30px;
+}
+
+.cardImage {
+  height: 180px;
+  width: 180px;
+  margin-top: 20px;
+}
