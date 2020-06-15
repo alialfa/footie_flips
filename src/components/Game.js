@@ -81,7 +81,7 @@ class Game extends Component {
 
       // if 1st and 2nd card match
       if (card1 == card2) {
-        this.setState({ gameScore: this.state.gameScore * 10, clicks: 1 }); // update score, allow more card clicks, reset clicks
+        this.setState({ gameScore: this.state.gameScore + 10, clicks: 1 }); // update score, allow more card clicks, reset clicks
 
         matchCounter += 1;
         // 8 pairs matched, the game was won
@@ -95,7 +95,7 @@ class Game extends Component {
       }
       // if 1st and 2nd card DONT match
       else {
-        this.setState({ gameScore: this.state.gameScore - 2 });
+        this.setState({ gameScore: this.state.gameScore - 1 });
         this.flipTheCard(clickedCardID, true); // animate to reveal 2nd card
 
         // delay function is vital for user experience
