@@ -1,8 +1,8 @@
-![logo](https://github.com/alialfa/online-store__kofy-house/blob/master/images/khlogo.png "Logo")
+![logo](https://github.com/alialfa/footie_flips/blob/master/src/images/header/logo.png "Logo")
 
 # FOOTIE FLIPS GAME
 
-FOOTIE FLIPS - _(an online memory pattern recognition game)_
+- _(an online memory pattern recognition game)_
 
 **TABLE of CONTENTS:**
 
@@ -14,7 +14,7 @@ FOOTIE FLIPS - _(an online memory pattern recognition game)_
 
 ## DESCRIPTION:
 
-Footie Flips is a game that presents a user with a deck of 16 cards. Each card click triggers a flip that reveals a soccer related image. There on, the gamer is supposed to use his memory to match pairs, every 2 flips. Any 2 flips that result in a mismatch, goes back to default. A match is 1 point and the max is 8 points. ENJOY!!!
+Footie Flips is a game that presents a user with a deck of 16 cards. Each card click triggers a flip that reveals a soccer related image. There on, the gamer is supposed to use his memory to match pairs, every 2 flips. Any 2 flips that result in a mismatch, goes back to default. A match is 1 point and the max is 8 points. 
 
 The goal of Footie Flips is to demonstrate understanding of the fundamnetals of React project, ranging from project structure, components functionality, rendering of standard elements, handling events and esseentially state management.
 
@@ -22,12 +22,11 @@ The goal of Footie Flips is to demonstrate understanding of the fundamnetals of 
 
 Clone it to your local repo
 
-1. Navigate to the main folder "footie_flips"
-2. npm install
-3. npm install react-bootstrap bootstrap [BOOTSTRAPING]
-4. npm install --save react-router-dom [REACT-ROUTER]
-5. npm install --save react-card-flip [REACT-CARD-FLIP-ANIMATIONS]
-6. npm start [RUN-THE-PROGRAM]
+1. Open a new terminal
+2. Navigate to the main game folder "footie_flips"
+3. Type in: **npm install**
+4. Type: **npm start** to run the program
+5. ENJOY!!!
 
 ## USAGE:
 
