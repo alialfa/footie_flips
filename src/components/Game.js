@@ -90,7 +90,7 @@ class Game extends Component {
             gameStatus: "//YOU WON!!!",
             gameTime: this.state.gameTime,
           });
-          alert("Congratulations! Footie Flipper, YOU DID IT :)");
+          //alert("Congratulations! Footie Flipper, YOU DID IT :)");
         }
       }
       // if 1st and 2nd card DONT match
@@ -109,7 +109,7 @@ class Game extends Component {
             secondCardClicked: "",
             firstCardClickedIndex: "",
           });
-        }, 1200);
+        }, 700);
       }
     }
   };
