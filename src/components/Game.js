@@ -95,7 +95,7 @@ class Game extends Component {
       }
       // if 1st and 2nd card DONT match
       else {
-        //this.setState({ gameScore: this.state.gameScore - 1 });
+        this.setState({ gameScore: this.state.gameScore - 1 });
         this.flipTheCard(clickedCardID, true); // animate to reveal 2nd card
 
         // delay function is vital for user experience
@@ -110,7 +110,7 @@ class Game extends Component {
             secondCardClicked: "",
             firstCardClickedIndex: "",
           });
-        }, 700);
+        }, 500);
       }
     }
   };
