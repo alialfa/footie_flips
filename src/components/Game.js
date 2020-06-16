@@ -110,7 +110,7 @@ class Game extends Component {
             secondCardClicked: "",
             firstCardClickedIndex: "",
           });
-        }, 500);
+        }, 600);
       }
     }
   };

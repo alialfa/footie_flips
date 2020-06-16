@@ -71,8 +71,8 @@ function renderTooltip(props) {
       <h6>Instructions:</h6>
       <ul>
         <li>Flip all cards</li>
-        <li>Matched pair = 1pt</li>
-        <li> Max Score = 8pts</li>
+        <li>Matched pair = 10pts</li>
+        <li>Each mismatched pair, 1pt is deducted</li>
         <li>Restart for deck shuffle</li>
       </ul>
     </Tooltip>
