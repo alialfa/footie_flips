@@ -14,19 +14,18 @@
 
 ## DESCRIPTION:
 
-Footie Flips is a game that presents a user with a deck of 16 cards. Each card click triggers a flip that reveals a soccer related image. There on, the gamer is supposed to use his memory to match pairs, every 2 flips. Any 2 flips that result in a mismatch, goes back to default. A match is 1 point and the max is 8 points. 
+Footie Flips is a game that presents a user with a deck of 16 cards. Each card click triggers a flip that reveals a soccer related image. There on, the gamer is supposed to use his memory to match pairs, every 2 flips. Any 2 flips that result in a mismatch, goes back to default. A matched pair is awarded 10 points and a single point is deducated for every mismatch.
 
 The goal of Footie Flips is to demonstrate understanding of the fundamnetals of React project, ranging from project structure, components functionality, rendering of standard elements, handling events and esseentially state management.
 
 ## INSTALLATION:
 
-Clone it to your local repo
-
-1. Open a new terminal
-2. Navigate to the main game folder "footie_flips"
-3. Type in: **npm install**
-4. Type: **npm start** to run the program
-5. ENJOY!!!
+1. Clone files to your local repo
+2. Open a new terminal
+3. Navigate to the main game folder "footie_flips"
+4. Type in: **npm install**
+5. Type: **npm start** to run the program
+6. ENJOY!!!
 
 ## USAGE:
 

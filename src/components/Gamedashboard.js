@@ -72,7 +72,7 @@ function renderTooltip(props) {
       <ul>
         <li>Flip all cards</li>
         <li>Matched pair = 10pts</li>
-        <li>Each mismatched pair, 1pt is deducted</li>
+        <li>Each pair mismatch, 1pt is deducted</li>
         <li>Restart for deck shuffle</li>
       </ul>
     </Tooltip>
